@@ -247,6 +247,10 @@ class DataSet(object):
         images = images.astype(numpy.float32)
 
         images = numpy.multiply(images, 1.0 / 255.0)
+        
+        
+     #     images =numpy.sign(images)
+     #     images[images==1] =255
 
     self._images = images
 
