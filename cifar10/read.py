@@ -8,7 +8,7 @@ Created on 2018. 4. 22.
 import tensorflow as tf
 
 import os
-import matplotlib.pyplot as plt  #이미지DUMP용
+import matplotlib.pyplot as plt  #이미지DUMP용 
 
 '''
    Cifar10.py 를 통해 다운받은 파일 이미지와 라벨확인 
