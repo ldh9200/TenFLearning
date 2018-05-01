@@ -8,6 +8,7 @@ Created on 2018. 4. 22.
 import tensorflow as tf
 
 
+
 import os
 import matplotlib.pyplot as plt  #이미지DUMP용 
 
