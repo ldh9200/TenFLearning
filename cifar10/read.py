@@ -264,10 +264,7 @@ def readCifar10File2():
         plt.show()
         
         
-        
-        
-        
-        
+    
 def cast():
      
      a = tf.Variable(1)
